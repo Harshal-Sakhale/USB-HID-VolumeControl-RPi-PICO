@@ -26,6 +26,8 @@ SW#		GP22#	29,
 VCC#			36,
 GND#			38.
 
-Rotate Clockwise	Volume UP,
-Rotate Counterclockwise	Volume DOWN,
-Press			MUTE
+Rotate Clockwise=		Volume UP,
+Rotate Counterclockwise=	Volume DOWN,
+Press=				MUTE
+
+Please let me know if you face any issues.

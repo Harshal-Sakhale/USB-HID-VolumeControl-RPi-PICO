@@ -18,13 +18,13 @@ and build by running :
 	make
 
 
-Rotary Encoder	GPIO	Board Pin
+Rotary Encoder#	GPIO#	Board Pin
 
-CLK (A)		GP20 	26,
-DT (B)		GP21 	27,
-SW	  	GP22 	29,
-VCC			36,
-GND			38.
+CLK (A)#	GP20# 	26,
+DT (B)#		GP21#	27,
+SW#		GP22#	29,
+VCC#			36,
+GND#			38.
 
 Rotate Clockwise	Volume UP,
 Rotate Counterclockwise	Volume DOWN,

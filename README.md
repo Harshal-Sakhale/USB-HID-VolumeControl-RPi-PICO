@@ -20,24 +20,24 @@ and build by running :
 	make
 
 
-Rotary Encoder  GPIO#   Board Pin
+Rotary Encoder..GPIO#...Board Pin
 
-CLK (A)         GP20     26
+CLK (A).........GP20....26
 
-DT (B)          GP21     27
+DT (B)..........GP21....27
 
-SW              GP22     29
+SW..............GP22....29
 
-VCC                      36
+VCC.....................36
 
-GND                      38
+GND.....................38
 
 
-Rotate Clockwise         Volume UP
+Rotate Clockwise.........Volume UP
 
-Rotate Counterclockwise  Volume DOWN
+Rotate Counterclockwise..Volume DOWN
 
-Press                    MUTE
+Press....................MUTE
 
 
 Please let me know if you face any issues.

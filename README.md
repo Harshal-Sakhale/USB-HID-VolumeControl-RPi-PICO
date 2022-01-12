@@ -22,14 +22,22 @@ and build by running :
 
 Rotary Encoder#	GPIO#	Board Pin
 
-CLK (A)#	GP20# 	26,
-DT (B)#		GP21#	27,
-SW#		GP22#	29,
-VCC#			36,
-GND#			38.
+CLK (A)#	GP20# 	26
 
-Rotate Clockwise=		Volume UP,
-Rotate Counterclockwise=	Volume DOWN,
+DT (B)#		GP21#	27
+
+SW#		GP22#	29
+
+VCC#			36
+
+GND#			38
+
+
+Rotate Clockwise=		Volume UP
+
+Rotate Counterclockwise=	Volume DOWN
+
 Press=				MUTE
+
 
 Please let me know if you face any issues.

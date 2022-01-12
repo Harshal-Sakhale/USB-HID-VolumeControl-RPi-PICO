@@ -2,6 +2,7 @@
 USB HID Volume Control with Rotary Encoder Input using PICO-SDK
 
 Platform : Raspberry Pi PICO
+
 This is a modified version of the Keyboard and Mouse example of tinyUSB library named "hid_multiple_interface".
 The rotary encoder can be used to increase/decrease the volume or mute it.
 The pico board can be plugged in to Windows, Linux machine or even Android smartphone.

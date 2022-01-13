@@ -40,4 +40,7 @@ Rotate Counterclockwise..Volume DOWN
 Press....................MUTE
 
 
+Watch the demo :
+https://www.youtube.com/watch?v=NlJDEUz_a9E
+
 Please let me know if you face any issues.
